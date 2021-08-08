@@ -1,0 +1,37 @@
+
+body{
+    background-color: rgb(212, 205, 205);
+    font-family: 'PT Serif', serif;
+}
+
+.image{
+    display:flex;
+}
+
+.image > img{
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    margin: 10px auto;                                                                                                                                                                                                                                         
+}
+
+.title {
+    
+    color: blue;
+    text-align: center;
+    font-family: 'Style Script', cursive;
+}
+
+.article{
+    color: rgb(8, 37, 37);
+    margin: 0 35% 0 40%;
+    text-align: justify;
+}
+ul{
+    color: rgb(24, 37, 226);
+}
+
+footer{
+    color: red;
+    text-align: right;
+}
